@@ -8,6 +8,7 @@ namespace vjezbapis1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("danas je ponedjeljak");
+            Console.WriteLine("Promjena");
         }
     }
 }
